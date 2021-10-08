@@ -30,6 +30,7 @@
   
  
   ## Usage:
+  https://user-images.githubusercontent.com/84195577/136599893-80408181-7f28-4c00-9728-041f68fdea58.mov
   
   > step 1: In the terminal run  node index.js
   > 
@@ -49,3 +50,7 @@
   ## Questions:
   - Github: [jisrael-R](https://github.com/jisrael-R)
   - Email: jorman.iisrael@me.com 
+
+
+
+
