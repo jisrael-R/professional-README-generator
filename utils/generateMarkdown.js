@@ -38,7 +38,7 @@ function generateMarkdown(data) {
   - Github: [${data.github}](https://github.com/${data.github})
   - Email: ${data.email}
  
-  #
+ #
   
  
   *this file was generated with this project* `;
